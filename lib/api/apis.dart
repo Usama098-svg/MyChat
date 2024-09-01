@@ -22,7 +22,7 @@ class Apis {
       id: user.uid,
       name: user.displayName.toString(),
       email: user.email.toString(),
-      about: "Hey, I'm using We Chat!",
+      about: "Hey, I'm using My Chat App!",
       image: user.photoURL.toString(),
       createdAt: '',
       isOnline: false,
