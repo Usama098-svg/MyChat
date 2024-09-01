@@ -46,7 +46,7 @@ class Apis {
         id: user.uid,
         name: user.displayName.toString(),
         email: user.email.toString(),
-        about: "Hey, I'm using My Chat!",
+        about: "Hey, I'm using My Chat App!",
         image: user.photoURL.toString(),
         createdAt: time,
         isOnline: false,
